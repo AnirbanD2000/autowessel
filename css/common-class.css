@@ -1,0 +1,140 @@
+* {
+    outline: none !important;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    font-family: 'lama_sansregular';
+}
+
+a:hover {
+    text-decoration: none;
+    color: #c7c7c7;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+    margin: 0px;
+}
+
+:focus {
+    outline: none !important;
+}
+
+section {
+    width: 100%;
+    padding: 70px 0;
+}
+.heading h2 em {
+    color: #0078BE;
+    font-family: 'lama_sansregular';
+    font-style: normal;
+}
+em {
+    font-style: normal;
+}
+strong {
+    font-family: 'lama_sansbold';
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 30px 0;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'lama_sansregular';
+    color: #fff;
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-size: 32px;
+    font-family: 'lama_sansregular';
+    text-transform: uppercase;
+    color: #121212;
+    letter-spacing: 2px;
+}
+
+h3 {
+    font-size: 28px;
+    font-family: 'lama_sansbold';
+    color: black;
+    letter-spacing: 2px;
+}
+
+h4 {
+    font-size: 24px;
+    font-family: 'lama_sansregular';
+    color: #121212;
+    letter-spacing: 1px;
+}
+
+h5 {
+    font-size: 18px;
+    font-family: 'lama_sansregular';
+    letter-spacing: 1px;
+}
+
+h6 {
+    font-size: 16px;
+    font-family: 'lama_sanssemibold';
+}
+
+p {
+    font-size: 14px;
+    font-family: 'lama_sansregular';
+    line-height: 21px;
+}
+
+.common-btn {
+    font-family: 'lama_sansmedium';
+    font-size: 14px;
+    display: inline-block;
+    border: 2px solid #0078BE;
+    border-radius: 5px;
+    background: #0078BE;
+    color: #fff;
+    max-width: 153px;
+    width: 100%;
+    height: 50px;
+    line-height: 45px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    padding: 0 10px;
+}
+
+.common-btn:hover {
+    color: #0078BE;
+    background: #fff;
+    border-color: #0078BE;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}
+
+.common-arrow {}
+
+.common-arrow:after {
+    display: none;
+}
+
+.common-arrow img {
+    width: 20px;
+}
+
+.common-bg {
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

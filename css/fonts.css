@@ -1,0 +1,62 @@
+
+@font-face {
+    font-family: 'lama_sansbold';
+    src: url('../fonts/lamasans-bold.eot');
+    src: url('../fonts/lamasans-bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/lamasans-bold.woff2') format('woff2'),
+         url('../fonts/lamasans-bold.woff') format('woff'),
+         url('../fonts/lamasans-bold.ttf') format('truetype'),
+         url('../fonts/lamasans-bold.svg#lama_sansbold') format('svg');
+}
+
+
+
+
+@font-face {
+    font-family: 'lama_sanslight';
+    src: url('../fonts/lamasans-light.eot');
+    src: url('../fonts/lamasans-light.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/lamasans-light.woff2') format('woff2'),
+         url('../fonts/lamasans-light.woff') format('woff'),
+         url('../fonts/lamasans-light.ttf') format('truetype'),
+         url('../fonts/lamasans-light.svg#lama_sanslight') format('svg');
+}
+
+
+
+
+@font-face {
+    font-family: 'lama_sansmedium';
+    src: url('../fonts/lamasans-medium.eot');
+    src: url('../fonts/lamasans-medium.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/lamasans-medium.woff2') format('woff2'),
+         url('../fonts/lamasans-medium.woff') format('woff'),
+         url('../fonts/lamasans-medium.ttf') format('truetype'),
+         url('../fonts/lamasans-medium.svg#lama_sansmedium') format('svg');
+}
+
+
+
+
+@font-face {
+    font-family: 'lama_sansregular';
+    src: url('../fonts/lamasans-regular.eot');
+    src: url('../fonts/lamasans-regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/lamasans-regular.woff2') format('woff2'),
+         url('../fonts/lamasans-regular.woff') format('woff'),
+         url('../fonts/lamasans-regular.ttf') format('truetype'),
+         url('../fonts/lamasans-regular.svg#lama_sansregular') format('svg');
+}
+
+
+
+
+@font-face {
+    font-family: 'lama_sanssemibold';
+    src: url('../fonts/lamasans-semibold.eot');
+    src: url('../fonts/lamasans-semibold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/lamasans-semibold.woff2') format('woff2'),
+         url('../fonts/lamasans-semibold.woff') format('woff'),
+         url('../fonts/lamasans-semibold.ttf') format('truetype'),
+         url('../fonts/lamasans-semibold.svg#lama_sanssemibold') format('svg');
+}
